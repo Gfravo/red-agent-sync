@@ -1,0 +1,12 @@
+# Este repo es solo para la automatización en la nube de Empleos/Eventos.
+# Todo lo demás (red de contactos, reach, CV, credenciales) se queda fuera
+# a propósito por privacidad: no sale de este Mac.
+*
+!.gitignore
+!scripts/
+!scripts/import_jobs.py
+!scripts/import_events.py
+!data/
+!data/cache/
+!data/cache/job_postings.json
+!data/cache/events.json

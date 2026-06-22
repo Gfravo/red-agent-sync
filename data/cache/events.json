@@ -1,5 +1,5 @@
 {
-  "generated_on": "2026-06-19",
+  "generated_on": "2026-06-22",
   "events": [
     {
       "id": "isfc-7",
@@ -57,6 +57,20 @@
         "transformacion digital"
       ],
       "found_on": "2026-06-19"
+    },
+    {
+      "title": "Gartner IT Symposium/Xpo 2026",
+      "date": "9-12 noviembre 2026",
+      "location": "Barcelona — CCIB",
+      "link": "https://www.gartner.com/en/conferences/emea/symposium-spain",
+      "why": "El gran encuentro anual de CIOs y directivos de tecnología — más orientado a IT que a search funds, pero relevante para tu palanca de transformación con IA y para visibilidad ante directores generales que buscan perfiles operativos con criterio tecnológico.",
+      "tags": [
+        "transformacion",
+        "ia",
+        "CIO"
+      ],
+      "id": "gartner-it-symposium-xpo-2026",
+      "found_on": "2026-06-22"
     }
   ]
 }

@@ -70,5 +70,33 @@
     "source": "email_linkedin",
     "imported_on": "2026-06-20",
     "last_seen_on": "2026-06-20"
+  },
+  {
+    "id": "job-5-general-manager-compa-a-industrial",
+    "title": "General Manager - Compañía industrial",
+    "company": "Michael Page",
+    "location": "Madrid, Comunidad de Madrid, España",
+    "url": "https://www.linkedin.com/jobs/view/4428932280",
+    "description": "",
+    "score": 10,
+    "location_match": false,
+    "status": "nuevo",
+    "source": "email_linkedin",
+    "imported_on": "2026-06-23T10:22:58",
+    "last_seen_on": "2026-06-23"
+  },
+  {
+    "id": "job-6-director-a-operaciones",
+    "title": "Director/a Operaciones",
+    "company": "Hays",
+    "location": "Sevilla, Andalucía, España",
+    "url": "https://www.linkedin.com/jobs/view/4425779582",
+    "description": "",
+    "score": 0,
+    "location_match": false,
+    "status": "nuevo",
+    "source": "email_linkedin",
+    "imported_on": "2026-06-23T10:22:58",
+    "last_seen_on": "2026-06-23"
   }
 ]

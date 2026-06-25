@@ -108,10 +108,11 @@
     "description": "",
     "score": 30,
     "location_match": true,
-    "status": "nuevo",
+    "status": "aplicado",
     "source": "email_linkedin",
     "imported_on": "2026-06-23T18:34:00",
-    "last_seen_on": "2026-06-23"
+    "last_seen_on": "2026-06-23",
+    "applied_on": "2026-06-24"
   },
   {
     "id": "job-8-global-head-of-merchandising",

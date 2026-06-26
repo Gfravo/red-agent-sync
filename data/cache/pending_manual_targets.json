@@ -1,32 +1,7 @@
 [
   {
-    "id": "manual-14-2026-06-23",
-    "linkedin_url": "https://www.linkedin.com/in/antonimartimuntane/",
-    "camino": "C"
-  },
-  {
     "id": "manual-15-2026-06-23",
     "linkedin_url": "https://www.linkedin.com/in/mar%C3%ADa-garc%C3%ADa-/",
-    "camino": "C"
-  },
-  {
-    "id": "manual-16-2026-06-23",
-    "linkedin_url": "https://www.linkedin.com/in/simon-bores-llanos/",
-    "camino": "A"
-  },
-  {
-    "id": "manual-17-2026-06-23",
-    "linkedin_url": "https://www.linkedin.com/in/laia-violan/",
-    "camino": "C"
-  },
-  {
-    "id": "manual-18-2026-06-23",
-    "linkedin_url": "linkedin.com/in/berta-figueras-52243528/?skipRedirect=true",
-    "camino": "C"
-  },
-  {
-    "id": "manual-19-2026-06-23",
-    "linkedin_url": "https://www.linkedin.com/in/esthermimosomcrinternational/",
     "camino": "C"
   },
   {
@@ -37,6 +12,26 @@
   {
     "id": "manual-21-2026-06-23",
     "linkedin_url": "https://www.linkedin.com/in/adriamarques/",
+    "camino": "A"
+  },
+  {
+    "id": "manual-22-2026-06-25",
+    "linkedin_url": "https://www.linkedin.com/in/teresadominguezanguiano/",
+    "camino": "A"
+  },
+  {
+    "id": "manual-23-2026-06-25",
+    "linkedin_url": "https://www.linkedin.com/in/greta-a-305b4b43/",
+    "camino": "C"
+  },
+  {
+    "id": "manual-24-2026-06-25",
+    "linkedin_url": "https://www.linkedin.com/in/%C3%A1lvaro-horstmann-sendagorta-4495355a/",
+    "camino": "A"
+  },
+  {
+    "id": "manual-25-2026-06-25",
+    "linkedin_url": "https://www.linkedin.com/in/jaime-villanueva-campos/",
     "camino": "A"
   }
 ]

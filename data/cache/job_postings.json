@@ -26,7 +26,7 @@
     "status": "aplicado",
     "source": "email_linkedin",
     "imported_on": "2026-06-20",
-    "last_seen_on": "2026-07-06",
+    "last_seen_on": "2026-07-07",
     "applied_on": "2026-06-20"
   },
   {
@@ -38,10 +38,10 @@
     "description": "(La alerta de LinkedIn no incluye el cuerpo completo — abre Ver oferta para leerla.)",
     "score": 10,
     "location_match": false,
-    "status": "nuevo",
+    "status": "descartado",
     "source": "email_linkedin",
     "imported_on": "2026-06-20",
-    "last_seen_on": "2026-07-06"
+    "last_seen_on": "2026-07-07"
   },
   {
     "id": "job-4-email",
@@ -52,7 +52,7 @@
     "description": "(La alerta de LinkedIn no incluye el cuerpo completo — abre Ver oferta para leerla.)",
     "score": 45,
     "location_match": false,
-    "status": "nuevo",
+    "status": "descartado",
     "source": "email_linkedin",
     "imported_on": "2026-06-20",
     "last_seen_on": "2026-06-20"
@@ -66,7 +66,7 @@
     "description": "",
     "score": 10,
     "location_match": false,
-    "status": "nuevo",
+    "status": "descartado",
     "source": "email_linkedin",
     "imported_on": "2026-06-23T10:22:58",
     "last_seen_on": "2026-06-30"
@@ -80,7 +80,7 @@
     "description": "",
     "score": 0,
     "location_match": false,
-    "status": "nuevo",
+    "status": "descartado",
     "source": "email_linkedin",
     "imported_on": "2026-06-23T10:22:58",
     "last_seen_on": "2026-06-30"
@@ -97,7 +97,7 @@
     "status": "aplicado",
     "source": "email_linkedin",
     "imported_on": "2026-06-23T18:34:00",
-    "last_seen_on": "2026-07-06",
+    "last_seen_on": "2026-07-07",
     "applied_on": "2026-06-24"
   },
   {
@@ -109,10 +109,10 @@
     "description": "",
     "score": 0,
     "location_match": false,
-    "status": "nuevo",
+    "status": "descartado",
     "source": "email_linkedin",
     "imported_on": "2026-06-23T18:34:00",
-    "last_seen_on": "2026-07-06"
+    "last_seen_on": "2026-07-07"
   },
   {
     "id": "job-11-responsable-operaciones-m-a-y-venture-capital",
@@ -123,10 +123,10 @@
     "description": "",
     "score": 0,
     "location_match": false,
-    "status": "nuevo",
+    "status": "descartado",
     "source": "email_linkedin",
     "imported_on": "2026-06-23T18:34:00",
-    "last_seen_on": "2026-07-06"
+    "last_seen_on": "2026-07-07"
   },
   {
     "id": "job-17-director-global-strategic-marketing-beauty-home",
@@ -137,10 +137,10 @@
     "description": "",
     "score": 0,
     "location_match": false,
-    "status": "nuevo",
+    "status": "descartado",
     "source": "email_linkedin",
     "imported_on": "2026-06-25T13:30:48",
-    "last_seen_on": "2026-07-06"
+    "last_seen_on": "2026-07-07"
   },
   {
     "id": "job-19-director-alliance-management-alliance-lead",
@@ -154,7 +154,7 @@
     "status": "descartado",
     "source": "email_linkedin",
     "imported_on": "2026-06-25T13:30:48",
-    "last_seen_on": "2026-07-06"
+    "last_seen_on": "2026-07-07"
   },
   {
     "id": "job-20-director-a-de-operaciones",
@@ -165,10 +165,10 @@
     "description": "",
     "score": 0,
     "location_match": false,
-    "status": "nuevo",
+    "status": "descartado",
     "source": "email_linkedin",
     "imported_on": "2026-06-25T13:30:48",
-    "last_seen_on": "2026-07-06"
+    "last_seen_on": "2026-07-07"
   },
   {
     "id": "job-21-director-a-de-operacions",
@@ -179,10 +179,10 @@
     "description": "",
     "score": 0,
     "location_match": false,
-    "status": "nuevo",
+    "status": "descartado",
     "source": "email_linkedin",
     "imported_on": "2026-06-25T13:30:48",
-    "last_seen_on": "2026-07-06"
+    "last_seen_on": "2026-07-07"
   },
   {
     "id": "job-23-director-a-de-operacions",
@@ -193,10 +193,10 @@
     "description": "",
     "score": 0,
     "location_match": false,
-    "status": "nuevo",
+    "status": "descartado",
     "source": "email_linkedin",
     "imported_on": "2026-06-25T13:30:48",
-    "last_seen_on": "2026-07-06"
+    "last_seen_on": "2026-07-07"
   },
   {
     "id": "job-24-barcelona-catalu-a-espa-a",
@@ -207,10 +207,10 @@
     "description": "",
     "score": 0,
     "location_match": false,
-    "status": "nuevo",
+    "status": "descartado",
     "source": "email_linkedin",
     "imported_on": "2026-06-29T13:27:22",
-    "last_seen_on": "2026-07-06"
+    "last_seen_on": "2026-07-07"
   },
   {
     "id": "job-25-chief-administrative-officer",
@@ -221,7 +221,7 @@
     "description": "",
     "score": 0,
     "location_match": false,
-    "status": "nuevo",
+    "status": "descartado",
     "source": "email_linkedin",
     "imported_on": "2026-06-29T13:27:22",
     "last_seen_on": "2026-06-29"
@@ -235,7 +235,7 @@
     "description": "",
     "score": 0,
     "location_match": false,
-    "status": "nuevo",
+    "status": "descartado",
     "source": "email_linkedin",
     "imported_on": "2026-06-29T13:27:22",
     "last_seen_on": "2026-06-30"
@@ -249,7 +249,7 @@
     "description": "",
     "score": 0,
     "location_match": false,
-    "status": "nuevo",
+    "status": "descartado",
     "source": "email_linkedin",
     "imported_on": "2026-06-29T13:27:22",
     "last_seen_on": "2026-06-29"
@@ -263,7 +263,7 @@
     "description": "",
     "score": 0,
     "location_match": false,
-    "status": "nuevo",
+    "status": "descartado",
     "source": "email_linkedin",
     "imported_on": "2026-06-29T13:27:22",
     "last_seen_on": "2026-06-29"
@@ -277,7 +277,7 @@
     "description": "",
     "score": 0,
     "location_match": false,
-    "status": "nuevo",
+    "status": "descartado",
     "source": "email_linkedin",
     "imported_on": "2026-06-29T13:27:22",
     "last_seen_on": "2026-06-30"
@@ -291,7 +291,7 @@
     "description": "",
     "score": 15,
     "location_match": false,
-    "status": "nuevo",
+    "status": "descartado",
     "source": "email_linkedin",
     "imported_on": "2026-06-29T13:27:22",
     "last_seen_on": "2026-06-29"
@@ -305,7 +305,7 @@
     "description": "",
     "score": 15,
     "location_match": false,
-    "status": "nuevo",
+    "status": "descartado",
     "source": "email_linkedin",
     "imported_on": "2026-06-29T13:27:22",
     "last_seen_on": "2026-06-30"
@@ -319,7 +319,7 @@
     "description": "",
     "score": 0,
     "location_match": false,
-    "status": "nuevo",
+    "status": "descartado",
     "source": "email_linkedin",
     "imported_on": "2026-06-29T13:27:22",
     "last_seen_on": "2026-06-30"
@@ -333,7 +333,7 @@
     "description": "",
     "score": 15,
     "location_match": false,
-    "status": "nuevo",
+    "status": "descartado",
     "source": "email_linkedin",
     "imported_on": "2026-06-29T13:27:22",
     "last_seen_on": "2026-06-30"
@@ -347,7 +347,7 @@
     "description": "",
     "score": 10,
     "location_match": false,
-    "status": "nuevo",
+    "status": "descartado",
     "source": "email_linkedin",
     "imported_on": "2026-06-29T13:27:22",
     "last_seen_on": "2026-07-02"
@@ -361,7 +361,7 @@
     "description": "",
     "score": 0,
     "location_match": false,
-    "status": "nuevo",
+    "status": "descartado",
     "source": "email_linkedin",
     "imported_on": "2026-06-29T13:27:22",
     "last_seen_on": "2026-07-02"
@@ -375,7 +375,7 @@
     "description": "",
     "score": 10,
     "location_match": false,
-    "status": "nuevo",
+    "status": "descartado",
     "source": "email_linkedin",
     "imported_on": "2026-06-29T13:27:22",
     "last_seen_on": "2026-07-02"
@@ -389,7 +389,7 @@
     "description": "",
     "score": 10,
     "location_match": false,
-    "status": "nuevo",
+    "status": "descartado",
     "source": "email_linkedin",
     "imported_on": "2026-06-29T13:27:22",
     "last_seen_on": "2026-07-02"
@@ -403,10 +403,10 @@
     "description": "",
     "score": 25,
     "location_match": true,
-    "status": "nuevo",
+    "status": "descartado",
     "source": "email_linkedin",
     "imported_on": "2026-06-29T13:27:22",
-    "last_seen_on": "2026-07-06"
+    "last_seen_on": "2026-07-07"
   },
   {
     "id": "job-42-direcci-n-financiera-adjunto-a-a-direcci-n-general-ref-122-26",
@@ -417,7 +417,7 @@
     "description": "",
     "score": 0,
     "location_match": false,
-    "status": "nuevo",
+    "status": "descartado",
     "source": "email_linkedin",
     "imported_on": "2026-06-29T13:27:22",
     "last_seen_on": "2026-07-02"
@@ -431,7 +431,7 @@
     "description": "",
     "score": 10,
     "location_match": false,
-    "status": "nuevo",
+    "status": "descartado",
     "source": "email_linkedin",
     "imported_on": "2026-06-29T13:27:22",
     "last_seen_on": "2026-07-02"
@@ -445,7 +445,7 @@
     "description": "",
     "score": 10,
     "location_match": false,
-    "status": "nuevo",
+    "status": "descartado",
     "source": "email_linkedin",
     "imported_on": "2026-06-29T13:27:22",
     "last_seen_on": "2026-07-02"
@@ -459,7 +459,7 @@
     "description": "",
     "score": 0,
     "location_match": false,
-    "status": "nuevo",
+    "status": "descartado",
     "source": "email_linkedin",
     "imported_on": "2026-06-29T13:27:22",
     "last_seen_on": "2026-07-02"
@@ -473,10 +473,11 @@
     "description": "",
     "score": 40,
     "location_match": false,
-    "status": "nuevo",
+    "status": "aplicado",
     "source": "email_linkedin",
     "imported_on": "2026-06-29T13:27:22",
-    "last_seen_on": "2026-07-06"
+    "last_seen_on": "2026-07-07",
+    "applied_on": "2026-07-06"
   },
   {
     "id": "job-47-chief-operating-officer",
@@ -487,10 +488,10 @@
     "description": "",
     "score": 15,
     "location_match": false,
-    "status": "nuevo",
+    "status": "descartado",
     "source": "email_linkedin",
     "imported_on": "2026-06-29T13:27:22",
-    "last_seen_on": "2026-07-06"
+    "last_seen_on": "2026-07-07"
   },
   {
     "id": "job-48-chief-operating-officer",
@@ -501,10 +502,10 @@
     "description": "",
     "score": 15,
     "location_match": false,
-    "status": "nuevo",
+    "status": "descartado",
     "source": "email_linkedin",
     "imported_on": "2026-06-29T13:27:22",
-    "last_seen_on": "2026-07-06"
+    "last_seen_on": "2026-07-07"
   },
   {
     "id": "job-49-director",
@@ -515,10 +516,10 @@
     "description": "",
     "score": 0,
     "location_match": false,
-    "status": "nuevo",
+    "status": "descartado",
     "source": "email_linkedin",
     "imported_on": "2026-06-29T13:27:22",
-    "last_seen_on": "2026-07-06"
+    "last_seen_on": "2026-07-07"
   },
   {
     "id": "job-50-ceo-through-acquisition",
@@ -532,7 +533,7 @@
     "status": "aplicado",
     "source": "email_linkedin",
     "imported_on": "2026-06-29T13:27:22",
-    "last_seen_on": "2026-07-06",
+    "last_seen_on": "2026-07-07",
     "applied_on": "2026-06-29"
   },
   {
@@ -544,10 +545,11 @@
     "description": "",
     "score": 45,
     "location_match": false,
-    "status": "nuevo",
+    "status": "aplicado",
     "source": "email_linkedin",
     "imported_on": "2026-06-29T13:27:22",
-    "last_seen_on": "2026-07-06"
+    "last_seen_on": "2026-07-07",
+    "applied_on": "2026-07-06"
   },
   {
     "id": "job-53-executive-advisor-ai-business-transformation",
@@ -558,10 +560,11 @@
     "description": "",
     "score": 5,
     "location_match": false,
-    "status": "nuevo",
+    "status": "aplicado",
     "source": "email_linkedin",
     "imported_on": "2026-06-29T13:27:22",
-    "last_seen_on": "2026-07-06"
+    "last_seen_on": "2026-07-07",
+    "applied_on": "2026-07-06"
   },
   {
     "id": "job-54-senior-interim-fractional-manager",
@@ -572,10 +575,10 @@
     "description": "",
     "score": 0,
     "location_match": false,
-    "status": "nuevo",
+    "status": "descartado",
     "source": "email_linkedin",
     "imported_on": "2026-06-29T13:27:22",
-    "last_seen_on": "2026-07-06"
+    "last_seen_on": "2026-07-07"
   },
   {
     "id": "job-56-head-of-people",
@@ -586,10 +589,10 @@
     "description": "",
     "score": 0,
     "location_match": false,
-    "status": "nuevo",
+    "status": "descartado",
     "source": "email_linkedin",
     "imported_on": "2026-06-29T13:27:22",
-    "last_seen_on": "2026-07-06"
+    "last_seen_on": "2026-07-07"
   },
   {
     "id": "job-57-head-of-digital-ecommerce",
@@ -600,10 +603,10 @@
     "description": "",
     "score": 0,
     "location_match": false,
-    "status": "nuevo",
+    "status": "descartado",
     "source": "email_linkedin",
     "imported_on": "2026-06-29T13:27:22",
-    "last_seen_on": "2026-07-06"
+    "last_seen_on": "2026-07-07"
   },
   {
     "id": "job-58-global-marketing-growth-director-medicina-est-tica",
@@ -614,10 +617,10 @@
     "description": "",
     "score": 0,
     "location_match": false,
-    "status": "nuevo",
+    "status": "descartado",
     "source": "email_linkedin",
     "imported_on": "2026-06-29T13:27:22",
-    "last_seen_on": "2026-07-06"
+    "last_seen_on": "2026-07-07"
   },
   {
     "id": "job-59-director-de-marketing",
@@ -631,7 +634,7 @@
     "status": "descartado",
     "source": "email_linkedin",
     "imported_on": "2026-06-29T13:27:22",
-    "last_seen_on": "2026-07-06"
+    "last_seen_on": "2026-07-07"
   },
   {
     "id": "job-60-head-of-ecommerce-growth-femtech-startup",
@@ -642,10 +645,10 @@
     "description": "",
     "score": 0,
     "location_match": false,
-    "status": "nuevo",
+    "status": "descartado",
     "source": "email_linkedin",
     "imported_on": "2026-06-29T13:27:22",
-    "last_seen_on": "2026-07-06"
+    "last_seen_on": "2026-07-07"
   },
   {
     "id": "job-62-director-digital-marketing-saas-hybrid",
@@ -659,7 +662,7 @@
     "status": "descartado",
     "source": "email_linkedin",
     "imported_on": "2026-06-29T13:27:22",
-    "last_seen_on": "2026-07-06"
+    "last_seen_on": "2026-07-07"
   },
   {
     "id": "job-63-senior-director-marketing-spain-and-italy",
@@ -670,10 +673,10 @@
     "description": "",
     "score": 0,
     "location_match": false,
-    "status": "nuevo",
+    "status": "descartado",
     "source": "email_linkedin",
     "imported_on": "2026-06-29T13:27:22",
-    "last_seen_on": "2026-07-06"
+    "last_seen_on": "2026-07-07"
   },
   {
     "id": "job-65-marketing-communications-lead",
@@ -687,7 +690,7 @@
     "status": "descartado",
     "source": "email_linkedin",
     "imported_on": "2026-06-29T13:27:22",
-    "last_seen_on": "2026-07-06"
+    "last_seen_on": "2026-07-07"
   },
   {
     "id": "job-66-manager-consultor-a-ia",
@@ -701,7 +704,7 @@
     "status": "aplicado",
     "source": "email_linkedin",
     "imported_on": "2026-06-29T13:27:22",
-    "last_seen_on": "2026-07-06",
+    "last_seen_on": "2026-07-07",
     "applied_on": "2026-06-29"
   },
   {
@@ -716,7 +719,7 @@
     "status": "aplicado",
     "source": "email_linkedin",
     "imported_on": "2026-06-29T13:27:22",
-    "last_seen_on": "2026-07-06",
+    "last_seen_on": "2026-07-07",
     "applied_on": "2026-06-29"
   },
   {
@@ -728,10 +731,10 @@
     "description": "",
     "score": 0,
     "location_match": false,
-    "status": "nuevo",
+    "status": "descartado",
     "source": "email_linkedin",
     "imported_on": "2026-06-29T13:27:22",
-    "last_seen_on": "2026-07-06"
+    "last_seen_on": "2026-07-07"
   },
   {
     "id": "job-69-global-human-consultants",
@@ -742,10 +745,10 @@
     "description": "",
     "score": 0,
     "location_match": false,
-    "status": "nuevo",
+    "status": "descartado",
     "source": "email_linkedin",
     "imported_on": "2026-06-29T13:27:22",
-    "last_seen_on": "2026-07-06"
+    "last_seen_on": "2026-07-07"
   },
   {
     "id": "job-70-barcelona-y-alrededores",
@@ -756,10 +759,10 @@
     "description": "",
     "score": 0,
     "location_match": false,
-    "status": "nuevo",
+    "status": "descartado",
     "source": "email_linkedin",
     "imported_on": "2026-06-29T13:27:22",
-    "last_seen_on": "2026-07-06"
+    "last_seen_on": "2026-07-07"
   },
   {
     "id": "job-71-century-21-new-estate",
@@ -770,10 +773,10 @@
     "description": "",
     "score": 0,
     "location_match": false,
-    "status": "nuevo",
+    "status": "descartado",
     "source": "email_linkedin",
     "imported_on": "2026-06-29T13:27:22",
-    "last_seen_on": "2026-07-06"
+    "last_seen_on": "2026-07-07"
   },
   {
     "id": "job-72-salesforce",
@@ -784,10 +787,10 @@
     "description": "",
     "score": 0,
     "location_match": false,
-    "status": "nuevo",
+    "status": "descartado",
     "source": "email_linkedin",
     "imported_on": "2026-06-29T13:27:22",
-    "last_seen_on": "2026-07-06"
+    "last_seen_on": "2026-07-07"
   },
   {
     "id": "job-73-madrid-comunidad-de-madrid-espa-a",
@@ -798,10 +801,10 @@
     "description": "",
     "score": 0,
     "location_match": false,
-    "status": "nuevo",
+    "status": "descartado",
     "source": "email_linkedin",
     "imported_on": "2026-06-29T13:27:22",
-    "last_seen_on": "2026-07-06"
+    "last_seen_on": "2026-07-07"
   },
   {
     "id": "job-74-wallbox-chargers",
@@ -812,10 +815,10 @@
     "description": "",
     "score": 0,
     "location_match": false,
-    "status": "nuevo",
+    "status": "descartado",
     "source": "email_linkedin",
     "imported_on": "2026-06-29T13:27:22",
-    "last_seen_on": "2026-07-06"
+    "last_seen_on": "2026-07-07"
   },
   {
     "id": "job-75-spiral-grupo",
@@ -826,10 +829,10 @@
     "description": "",
     "score": 0,
     "location_match": false,
-    "status": "nuevo",
+    "status": "descartado",
     "source": "email_linkedin",
     "imported_on": "2026-06-29T13:27:22",
-    "last_seen_on": "2026-07-06"
+    "last_seen_on": "2026-07-07"
   },
   {
     "id": "job-76-lidl-espa-a",
@@ -840,10 +843,10 @@
     "description": "",
     "score": 0,
     "location_match": false,
-    "status": "nuevo",
+    "status": "descartado",
     "source": "email_linkedin",
     "imported_on": "2026-06-29T13:27:22",
-    "last_seen_on": "2026-07-06"
+    "last_seen_on": "2026-07-07"
   },
   {
     "id": "job-77-gurobi-optimization",
@@ -854,10 +857,10 @@
     "description": "",
     "score": 0,
     "location_match": false,
-    "status": "nuevo",
+    "status": "descartado",
     "source": "email_linkedin",
     "imported_on": "2026-06-29T13:27:22",
-    "last_seen_on": "2026-07-06"
+    "last_seen_on": "2026-07-07"
   },
   {
     "id": "job-78-barcelona-catalu-a-espa-a",
@@ -868,10 +871,10 @@
     "description": "",
     "score": 0,
     "location_match": false,
-    "status": "nuevo",
+    "status": "descartado",
     "source": "email_linkedin",
     "imported_on": "2026-06-29T13:27:22",
-    "last_seen_on": "2026-07-06"
+    "last_seen_on": "2026-07-07"
   },
   {
     "id": "job-79-spektrum",
@@ -882,10 +885,10 @@
     "description": "",
     "score": 0,
     "location_match": false,
-    "status": "nuevo",
+    "status": "descartado",
     "source": "email_linkedin",
     "imported_on": "2026-06-29T13:27:22",
-    "last_seen_on": "2026-07-06"
+    "last_seen_on": "2026-07-07"
   },
   {
     "id": "job-80-barcelona-catalu-a-espa-a",
@@ -896,10 +899,10 @@
     "description": "",
     "score": 0,
     "location_match": false,
-    "status": "nuevo",
+    "status": "descartado",
     "source": "email_linkedin",
     "imported_on": "2026-06-29T13:27:22",
-    "last_seen_on": "2026-07-06"
+    "last_seen_on": "2026-07-07"
   },
   {
     "id": "job-81-barcelona-catalu-a-espa-a",
@@ -910,10 +913,10 @@
     "description": "",
     "score": 0,
     "location_match": false,
-    "status": "nuevo",
+    "status": "descartado",
     "source": "email_linkedin",
     "imported_on": "2026-06-29T13:27:22",
-    "last_seen_on": "2026-07-06"
+    "last_seen_on": "2026-07-07"
   },
   {
     "id": "job-82-barcelona-catalu-a-espa-a",
@@ -924,10 +927,10 @@
     "description": "",
     "score": 0,
     "location_match": false,
-    "status": "nuevo",
+    "status": "descartado",
     "source": "email_linkedin",
     "imported_on": "2026-06-29T13:27:22",
-    "last_seen_on": "2026-07-06"
+    "last_seen_on": "2026-07-07"
   },
   {
     "id": "job-83-barcelona-catalu-a-espa-a",
@@ -938,10 +941,10 @@
     "description": "",
     "score": 0,
     "location_match": false,
-    "status": "nuevo",
+    "status": "descartado",
     "source": "email_linkedin",
     "imported_on": "2026-06-29T13:27:22",
-    "last_seen_on": "2026-07-06"
+    "last_seen_on": "2026-07-07"
   },
   {
     "id": "job-84-product-success-manager",
@@ -952,10 +955,10 @@
     "description": "",
     "score": 0,
     "location_match": false,
-    "status": "nuevo",
+    "status": "descartado",
     "source": "email_linkedin",
     "imported_on": "2026-06-29T13:27:22",
-    "last_seen_on": "2026-07-06"
+    "last_seen_on": "2026-07-07"
   },
   {
     "id": "job-85-crossing-hurdles",
@@ -966,10 +969,10 @@
     "description": "",
     "score": 0,
     "location_match": false,
-    "status": "nuevo",
+    "status": "descartado",
     "source": "email_linkedin",
     "imported_on": "2026-06-29T13:27:22",
-    "last_seen_on": "2026-07-06"
+    "last_seen_on": "2026-07-07"
   },
   {
     "id": "job-86-senior-business-consultant-upto-90-hr-hourly",
@@ -980,10 +983,10 @@
     "description": "",
     "score": 0,
     "location_match": false,
-    "status": "nuevo",
+    "status": "descartado",
     "source": "email_linkedin",
     "imported_on": "2026-06-29T13:27:22",
-    "last_seen_on": "2026-07-06"
+    "last_seen_on": "2026-07-07"
   },
   {
     "id": "job-87-commerce-expert-fully-remote",
@@ -994,10 +997,10 @@
     "description": "",
     "score": 0,
     "location_match": false,
-    "status": "nuevo",
+    "status": "descartado",
     "source": "email_linkedin",
     "imported_on": "2026-06-29T13:27:22",
-    "last_seen_on": "2026-07-06"
+    "last_seen_on": "2026-07-07"
   },
   {
     "id": "job-88-crossing-hurdles",
@@ -1008,10 +1011,10 @@
     "description": "",
     "score": 0,
     "location_match": false,
-    "status": "nuevo",
+    "status": "descartado",
     "source": "email_linkedin",
     "imported_on": "2026-06-29T13:27:22",
-    "last_seen_on": "2026-07-06"
+    "last_seen_on": "2026-07-07"
   },
   {
     "id": "job-89-big-school",
@@ -1022,10 +1025,10 @@
     "description": "",
     "score": 0,
     "location_match": false,
-    "status": "nuevo",
+    "status": "descartado",
     "source": "email_linkedin",
     "imported_on": "2026-06-29T13:27:22",
-    "last_seen_on": "2026-07-06"
+    "last_seen_on": "2026-07-07"
   },
   {
     "id": "job-90-joybuy",
@@ -1036,10 +1039,11 @@
     "description": "",
     "score": 0,
     "location_match": false,
-    "status": "nuevo",
+    "status": "aplicado",
     "source": "email_linkedin",
     "imported_on": "2026-06-29T13:27:22",
-    "last_seen_on": "2026-07-06"
+    "last_seen_on": "2026-07-07",
+    "applied_on": "2026-07-06"
   },
   {
     "id": "job-91-nanimarquina",
@@ -1050,10 +1054,10 @@
     "description": "",
     "score": 0,
     "location_match": false,
-    "status": "nuevo",
+    "status": "descartado",
     "source": "email_linkedin",
     "imported_on": "2026-06-29T13:27:22",
-    "last_seen_on": "2026-07-06"
+    "last_seen_on": "2026-07-07"
   },
   {
     "id": "job-92-digital-process-management-lead",
@@ -1064,10 +1068,10 @@
     "description": "",
     "score": 0,
     "location_match": false,
-    "status": "nuevo",
+    "status": "descartado",
     "source": "email_linkedin",
     "imported_on": "2026-06-29T13:27:22",
-    "last_seen_on": "2026-07-06"
+    "last_seen_on": "2026-07-07"
   },
   {
     "id": "job-93-senior-growth-operations-manager-emea",
@@ -1078,10 +1082,10 @@
     "description": "",
     "score": 0,
     "location_match": true,
-    "status": "nuevo",
+    "status": "descartado",
     "source": "email_linkedin",
     "imported_on": "2026-06-29T13:27:22",
-    "last_seen_on": "2026-07-06"
+    "last_seen_on": "2026-07-07"
   },
   {
     "id": "job-95-corporate-head-of-ai",
@@ -1092,10 +1096,11 @@
     "description": "",
     "score": 0,
     "location_match": false,
-    "status": "nuevo",
+    "status": "aplicado",
     "source": "email_linkedin",
     "imported_on": "2026-06-29T13:27:22",
-    "last_seen_on": "2026-07-06"
+    "last_seen_on": "2026-07-07",
+    "applied_on": "2026-07-06"
   },
   {
     "id": "job-96-amicale-des-tudiants-miniers-du-burkina-faso-aem-bf",
@@ -1106,10 +1111,10 @@
     "description": "",
     "score": 0,
     "location_match": false,
-    "status": "nuevo",
+    "status": "descartado",
     "source": "email_linkedin",
     "imported_on": "2026-06-29T13:27:22",
-    "last_seen_on": "2026-07-06"
+    "last_seen_on": "2026-07-07"
   },
   {
     "id": "job-97-tripathon-travel",
@@ -1120,10 +1125,10 @@
     "description": "",
     "score": 0,
     "location_match": false,
-    "status": "nuevo",
+    "status": "descartado",
     "source": "email_linkedin",
     "imported_on": "2026-06-29T13:27:22",
-    "last_seen_on": "2026-07-06"
+    "last_seen_on": "2026-07-07"
   },
   {
     "id": "job-83-general-manager-emea",
@@ -1151,7 +1156,7 @@
     "status": "descartado",
     "source": "email_linkedin",
     "imported_on": "2026-06-29T14:27:31",
-    "last_seen_on": "2026-07-06"
+    "last_seen_on": "2026-07-07"
   },
   {
     "id": "job-85-head-of-people",
@@ -1165,7 +1170,7 @@
     "status": "descartado",
     "source": "email_linkedin",
     "imported_on": "2026-06-29T14:27:31",
-    "last_seen_on": "2026-07-06"
+    "last_seen_on": "2026-07-07"
   },
   {
     "id": "job-86-head-of-marketing-iberia",
@@ -1179,7 +1184,7 @@
     "status": "descartado",
     "source": "email_linkedin",
     "imported_on": "2026-06-29T14:27:31",
-    "last_seen_on": "2026-07-06"
+    "last_seen_on": "2026-07-07"
   },
   {
     "id": "job-87-senior-head-of-marketing-native-spanish-speaker",
@@ -1193,7 +1198,7 @@
     "status": "descartado",
     "source": "email_linkedin",
     "imported_on": "2026-06-29T14:27:31",
-    "last_seen_on": "2026-07-06"
+    "last_seen_on": "2026-07-07"
   },
   {
     "id": "job-88-lenskart-com",
@@ -1204,10 +1209,10 @@
     "description": "",
     "score": 0,
     "location_match": false,
-    "status": "nuevo",
+    "status": "descartado",
     "source": "email_linkedin",
     "imported_on": "2026-06-29T14:27:31",
-    "last_seen_on": "2026-07-06"
+    "last_seen_on": "2026-07-07"
   },
   {
     "id": "job-89-secpho",
@@ -1218,10 +1223,10 @@
     "description": "",
     "score": 0,
     "location_match": false,
-    "status": "nuevo",
+    "status": "descartado",
     "source": "email_linkedin",
     "imported_on": "2026-06-29T14:27:31",
-    "last_seen_on": "2026-07-06"
+    "last_seen_on": "2026-07-07"
   },
   {
     "id": "job-90-oxigent-technologies",
@@ -1232,10 +1237,10 @@
     "description": "",
     "score": 0,
     "location_match": false,
-    "status": "nuevo",
+    "status": "descartado",
     "source": "email_linkedin",
     "imported_on": "2026-06-29T14:27:31",
-    "last_seen_on": "2026-07-06"
+    "last_seen_on": "2026-07-07"
   },
   {
     "id": "job-91-operations-director-ftc",
@@ -1249,7 +1254,7 @@
     "status": "descartado",
     "source": "email_linkedin",
     "imported_on": "2026-06-29T14:27:31",
-    "last_seen_on": "2026-07-06"
+    "last_seen_on": "2026-07-07"
   },
   {
     "id": "job-92-chief-product-officer-healthtech",
@@ -1263,7 +1268,7 @@
     "status": "descartado",
     "source": "email_linkedin",
     "imported_on": "2026-06-29T14:27:31",
-    "last_seen_on": "2026-07-06"
+    "last_seen_on": "2026-07-07"
   },
   {
     "id": "job-93-spot-a-group",
@@ -1274,10 +1279,10 @@
     "description": "",
     "score": 0,
     "location_match": false,
-    "status": "nuevo",
+    "status": "descartado",
     "source": "email_linkedin",
     "imported_on": "2026-06-29T14:27:31",
-    "last_seen_on": "2026-07-06"
+    "last_seen_on": "2026-07-07"
   },
   {
     "id": "job-94-operations-manager-barcelona-m-f-d",
@@ -1291,7 +1296,7 @@
     "status": "descartado",
     "source": "email_linkedin",
     "imported_on": "2026-06-29T14:27:31",
-    "last_seen_on": "2026-07-06"
+    "last_seen_on": "2026-07-07"
   },
   {
     "id": "job-95-business-segment-lead",
@@ -1305,7 +1310,7 @@
     "status": "descartado",
     "source": "email_linkedin",
     "imported_on": "2026-06-29T14:27:31",
-    "last_seen_on": "2026-07-06"
+    "last_seen_on": "2026-07-07"
   },
   {
     "id": "job-96-cpo-co-founder-proptech",
@@ -1319,7 +1324,7 @@
     "status": "descartado",
     "source": "email_linkedin",
     "imported_on": "2026-06-29T14:27:31",
-    "last_seen_on": "2026-07-06"
+    "last_seen_on": "2026-07-07"
   },
   {
     "id": "job-97-chief-digital-officer",
@@ -1333,7 +1338,7 @@
     "status": "descartado",
     "source": "email_linkedin",
     "imported_on": "2026-06-29T14:27:31",
-    "last_seen_on": "2026-07-06"
+    "last_seen_on": "2026-07-07"
   },
   {
     "id": "job-98-director-directora-de-l-oficina-d-impuls-a-la-recerca",
@@ -1347,7 +1352,7 @@
     "status": "descartado",
     "source": "email_linkedin",
     "imported_on": "2026-06-29T14:27:31",
-    "last_seen_on": "2026-07-06"
+    "last_seen_on": "2026-07-07"
   },
   {
     "id": "job-99-cto-choosemycompany",
@@ -1361,7 +1366,7 @@
     "status": "descartado",
     "source": "email_linkedin",
     "imported_on": "2026-06-29T14:27:31",
-    "last_seen_on": "2026-07-06"
+    "last_seen_on": "2026-07-07"
   },
   {
     "id": "job-100-chief-transformation-and-ai-officer",
@@ -1372,10 +1377,11 @@
     "description": "",
     "score": 5,
     "location_match": false,
-    "status": "nuevo",
+    "status": "aplicado",
     "source": "email_linkedin",
     "imported_on": "2026-06-29T20:37:04",
-    "last_seen_on": "2026-07-06"
+    "last_seen_on": "2026-07-07",
+    "applied_on": "2026-07-06"
   },
   {
     "id": "job-101-director-applied-ai-transformation-retail-consumer-products",
@@ -1386,10 +1392,11 @@
     "description": "",
     "score": 5,
     "location_match": false,
-    "status": "nuevo",
+    "status": "aplicado",
     "source": "email_linkedin",
     "imported_on": "2026-06-29T20:37:04",
-    "last_seen_on": "2026-07-06"
+    "last_seen_on": "2026-07-07",
+    "applied_on": "2026-07-06"
   },
   {
     "id": "job-102-interim-transformation-director-b2b-software-pe-backed",
@@ -1400,10 +1407,11 @@
     "description": "",
     "score": 5,
     "location_match": false,
-    "status": "nuevo",
+    "status": "aplicado",
     "source": "email_linkedin",
     "imported_on": "2026-06-29T20:37:04",
-    "last_seen_on": "2026-07-06"
+    "last_seen_on": "2026-07-07",
+    "applied_on": "2026-07-06"
   },
   {
     "id": "job-100-director-a-de-operaciones-hospital-el-pilar-grupo-quironsalud",
@@ -1456,10 +1464,10 @@
     "description": "",
     "score": 5,
     "location_match": false,
-    "status": "nuevo",
+    "status": "descartado",
     "source": "email_linkedin",
     "imported_on": "2026-07-01T19:17:36",
-    "last_seen_on": "2026-07-06"
+    "last_seen_on": "2026-07-07"
   },
   {
     "id": "job-104-direcci-n-general",
@@ -1473,7 +1481,21 @@
     "status": "aplicado",
     "source": "email_linkedin",
     "imported_on": "2026-07-02T16:18:02",
-    "last_seen_on": "2026-07-06",
+    "last_seen_on": "2026-07-07",
     "applied_on": "2026-07-02"
+  },
+  {
+    "id": "job-105-director-a-de-operaciones-y-desarrollo-de-negocio-internacional",
+    "title": "Director/a de operaciones y desarrollo de negocio internacional",
+    "company": "Grup Essentia",
+    "location": "Barcelona",
+    "url": "https://www.linkedin.com/jobs/view/4437196775",
+    "description": "",
+    "score": 0,
+    "location_match": true,
+    "status": "nuevo",
+    "source": "email_linkedin",
+    "imported_on": "2026-07-06T18:19:39",
+    "last_seen_on": "2026-07-07"
   }
 ]

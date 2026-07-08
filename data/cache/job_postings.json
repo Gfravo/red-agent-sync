@@ -1493,9 +1493,10 @@
     "description": "",
     "score": 0,
     "location_match": true,
-    "status": "nuevo",
+    "status": "aplicado",
     "source": "email_linkedin",
     "imported_on": "2026-07-06T18:19:39",
-    "last_seen_on": "2026-07-07"
+    "last_seen_on": "2026-07-07",
+    "applied_on": "2026-07-07"
   }
 ]

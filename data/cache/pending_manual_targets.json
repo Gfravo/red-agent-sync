@@ -30,34 +30,9 @@
     "camino": "TALENT"
   },
   {
-    "id": "manual-70-2026-06-30",
-    "linkedin_url": "",
-    "camino": "PE_VC"
-  },
-  {
-    "id": "manual-72-2026-06-30",
-    "linkedin_url": "",
-    "camino": "PE_VC"
-  },
-  {
     "id": "manual-73-2026-06-30",
     "linkedin_url": "",
     "camino": "TALENT"
-  },
-  {
-    "id": "manual-74-2026-06-30",
-    "linkedin_url": "",
-    "camino": "PE_VC"
-  },
-  {
-    "id": "manual-75-2026-06-30",
-    "linkedin_url": "",
-    "camino": "PE_VC"
-  },
-  {
-    "id": "manual-78-2026-06-30",
-    "linkedin_url": "",
-    "camino": "PE_VC"
   },
   {
     "id": "manual-80-2026-06-30",
@@ -65,73 +40,133 @@
     "camino": "TALENT"
   },
   {
-    "id": "manual-83-2026-06-30",
+    "id": "manual-100-2026-07-08",
     "linkedin_url": "",
     "camino": "TALENT"
   },
   {
-    "id": "manual-84-2026-06-30",
+    "id": "manual-101-2026-07-08",
     "linkedin_url": "",
-    "camino": "TALENT"
+    "camino": "SEARCH_FUNDS"
   },
   {
-    "id": "manual-85-2026-06-30",
-    "linkedin_url": "",
-    "camino": "TALENT"
-  },
-  {
-    "id": "manual-87-2026-06-30",
-    "linkedin_url": "",
-    "camino": "TALENT"
-  },
-  {
-    "id": "manual-90-2026-06-30",
-    "linkedin_url": "",
-    "camino": "TALENT"
-  },
-  {
-    "id": "manual-91-2026-06-30",
-    "linkedin_url": "",
-    "camino": "TALENT"
-  },
-  {
-    "id": "manual-92-2026-06-30",
-    "linkedin_url": "",
-    "camino": "TALENT"
-  },
-  {
-    "id": "manual-93-2026-06-30",
-    "linkedin_url": "",
-    "camino": "TALENT"
-  },
-  {
-    "id": "manual-94-2026-06-30",
-    "linkedin_url": "",
-    "camino": "TALENT"
-  },
-  {
-    "id": "manual-95-2026-06-30",
-    "linkedin_url": "",
-    "camino": "TALENT"
-  },
-  {
-    "id": "manual-96-2026-06-30",
-    "linkedin_url": "",
-    "camino": "TALENT"
-  },
-  {
-    "id": "manual-97-2026-06-30",
-    "linkedin_url": "",
-    "camino": "TALENT"
-  },
-  {
-    "id": "manual-98-2026-06-30",
+    "id": "manual-102-2026-07-08",
     "linkedin_url": "",
     "camino": "PE_VC"
   },
   {
-    "id": "manual-99-2026-06-30",
+    "id": "manual-103-2026-07-08",
     "linkedin_url": "",
-    "camino": "OPERATING_PARTNER"
+    "camino": "TALENT"
+  },
+  {
+    "id": "manual-104-2026-07-08",
+    "linkedin_url": "",
+    "camino": "TALENT"
+  },
+  {
+    "id": "manual-105-2026-07-08",
+    "linkedin_url": "",
+    "camino": "TALENT"
+  },
+  {
+    "id": "manual-106-2026-07-08",
+    "linkedin_url": "",
+    "camino": "TALENT"
+  },
+  {
+    "id": "manual-107-2026-07-08",
+    "linkedin_url": "",
+    "camino": "PE_VC"
+  },
+  {
+    "id": "manual-108-2026-07-08",
+    "linkedin_url": "",
+    "camino": "PE_VC"
+  },
+  {
+    "id": "manual-109-2026-07-08",
+    "linkedin_url": "",
+    "camino": "PE_VC"
+  },
+  {
+    "id": "manual-110-2026-07-08",
+    "linkedin_url": "",
+    "camino": "PE_VC"
+  },
+  {
+    "id": "manual-111-2026-07-08",
+    "linkedin_url": "",
+    "camino": "PE_VC"
+  },
+  {
+    "id": "manual-112-2026-07-08",
+    "linkedin_url": "",
+    "camino": "PE_VC"
+  },
+  {
+    "id": "manual-113-2026-07-08",
+    "linkedin_url": "",
+    "camino": "PE_VC"
+  },
+  {
+    "id": "manual-114-2026-07-08",
+    "linkedin_url": "",
+    "camino": "TALENT"
+  },
+  {
+    "id": "manual-115-2026-07-08",
+    "linkedin_url": "",
+    "camino": "SEARCH_FUNDS"
+  },
+  {
+    "id": "manual-116-2026-07-08",
+    "linkedin_url": "",
+    "camino": "PE_VC"
+  },
+  {
+    "id": "manual-117-2026-07-08",
+    "linkedin_url": "",
+    "camino": "PE_VC"
+  },
+  {
+    "id": "manual-118-2026-07-08",
+    "linkedin_url": "",
+    "camino": "PE_VC"
+  },
+  {
+    "id": "manual-119-2026-07-08",
+    "linkedin_url": "",
+    "camino": "PE_VC"
+  },
+  {
+    "id": "manual-120-2026-07-08",
+    "linkedin_url": "",
+    "camino": "TALENT"
+  },
+  {
+    "id": "manual-121-2026-07-08",
+    "linkedin_url": "",
+    "camino": "SEARCH_FUNDS"
+  },
+  {
+    "id": "manual-122-2026-07-08",
+    "linkedin_url": "",
+    "camino": "PE_VC"
+  },
+  {
+    "id": "manual-123-2026-07-08",
+    "linkedin_url": "",
+    "camino": "TALENT"
+  },
+  {
+    "id": "manual-124-2026-07-08",
+    "linkedin_url": "",
+    "camino": "PE_VC"
+  },
+  {
+    "id": "manual-125-2026-07-08",
+    "linkedin_url": "",
+    "camino": "TALENT"
   }
 ]

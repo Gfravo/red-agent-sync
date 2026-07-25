@@ -1628,5 +1628,19 @@
     "imported_on": "2026-07-23T13:13:43",
     "last_seen_on": "2026-07-24",
     "applied_on": "2026-07-23"
+  },
+  {
+    "id": "job-115-barcelona-catalu-a-espa-a",
+    "title": "Barcelona, Cataluña, España",
+    "company": "",
+    "location": "2 contactos",
+    "url": "https://www.linkedin.com/jobs/view/4443967433",
+    "description": "",
+    "score": 0,
+    "location_match": false,
+    "status": "nuevo",
+    "source": "email_linkedin",
+    "imported_on": "2026-07-24T20:01:56",
+    "last_seen_on": "2026-07-24"
   }
 ]
